@@ -24,7 +24,7 @@ class Feedback extends React.Component {
           <a
             className={s.link}
             href="https://github.com/kriasoft/react-starter-kit/issues/new"
-          >Report an issue</a>
+          >Report an </a>
         </div>
       </div>
     );
